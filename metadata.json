@@ -1,0 +1,5 @@
+{
+  "name": "Human AI",
+  "description": "A pedagogical medical diagnostic tool that uses Socratic AI mentorship to sharpen clinical intuition by requiring clinicians to commit to a hypothesis before seeing AI results.",
+  "requestFramePermissions": []
+}
